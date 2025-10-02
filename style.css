@@ -1,0 +1,19 @@
+#navbar {
+    background-color: #035757;
+}
+#font_navbar {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+.hero-section {
+    background-color: #f8f9fa;
+    background-image:
+        url('background_home.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: normal;
+    min-height: 86vh;
+    display: flex;
+    align-items: center;
+    }
