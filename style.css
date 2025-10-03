@@ -6,13 +6,10 @@
     font-weight: 700;
 }
 .hero-section {
-    background-color: #f8f9fa;
     background-image:
-        url('background_home4.jpeg');
+        url('background_home3.jpeg');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: normal;
     min-height: 86vh;
     display: flex;
     align-items: center;
@@ -21,3 +18,14 @@ p {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
 }
+.uji_kompetensi-section {
+    background-color: #035757;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    min-height: 80vh;
+    }
